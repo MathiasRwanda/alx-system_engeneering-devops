@@ -1,1 +1,1 @@
-script prints
+my script
